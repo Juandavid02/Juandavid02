@@ -1,6 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Banner" width="100%" />
+</p>
 
-
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 <h2 align="center">
   Hi, I'm Juan David R
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
